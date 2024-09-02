@@ -22,5 +22,3 @@ SafeBikeSF addresses the safety concerns of urban cyclists by providing safety i
 - Bhavika Sodagum
 - Labibeh Taghizadeh
 - Zarah Taufique
-
-By Bhavika Sodagum
